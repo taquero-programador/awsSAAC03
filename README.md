@@ -1,10 +1,11 @@
 # AWS (SAAC03)
 
 #### To Do
-[x] Lazar una instancia **EC2** Debian y conectar son SSH.
-[x] Crear una base de datos en **RDS** y conectar desde CLI Linux MySQL.
-[x] Crear un usuario con permiso total a **AWS CLI**.
-[x] Crear un **Bucket de S3**, crear claves de acceso para usuario y conectar con **AWS CLI**.
+- [x] Lazar una instancia **EC2** Debian y conectar son **SSH**.
+- [x] Crear una base de datos en **RDS** y conectar desde CLI Linux MySQL.
+- [x] Crear un usuario en **IAM** con permiso total a **AWS CLI**.
+- [x] Crear un **Bucket de S3**, crear claves de acceso para usuario y conectar con **AWS CLI**.
+- [x] Crear una alerta de gastos.
 
 **EC2**: Es un servicio web que proporciona capacidad de computación en la nube y de tamaño
 modificable. Desarrollo escalable basado en la web. Ofrece un control completo de los
