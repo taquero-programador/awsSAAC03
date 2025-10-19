@@ -2,6 +2,8 @@
 
 #### To Do
 - [x] Lazar una instancia **EC2** Debian y conectar son **SSH**.
+    * Al ir realizando la configuración pide generar claves de acceso. Se crean claves ED25519.
+    * Se coloca el nuevo formato de Debian sourcelist en `/etc/apt/source.list`.
 - [x] Crear una base de datos en **RDS** y conectar desde CLI Linux MySQL.
 - [x] Crear un usuario en **IAM** con permiso total a **AWS CLI**.
 - [x] Crear un **Bucket de S3**, crear claves de acceso para usuario y conectar con **AWS CLI**.
@@ -30,3 +32,5 @@ configurar, operar y escalar bases de datos relacionales en la nube.
 
 **Amazon SQS**: Ofrece una cola alojada segura, duradera y disponible que permite integrar y
 desacoplar sistemas y componentes de software distriuidos.
+
+https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-espaol-latam/RX7XZB6CTM
